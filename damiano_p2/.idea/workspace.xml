@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="62946d41-9f81-4299-9144-9871fda2eb74" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Assignment 4.2/Assignment 4.2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../damiano_p1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example1/damiano_p1/damiano_p1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example1/damiano_p2/damiano_p2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example1/example1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../damiano_p1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../damiano_p1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../damiano_p1/out/production/damiano_p1/damiano_p1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../damiano_p1/src/damiano_p1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/damiano_p2/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/damiano_p2/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/damiano_p2/META-INF/damiano_p2.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/damiano_p2/SavingsAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1T2craBEVodH7QOChRM2lKpQoDl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../damiano_p1" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application" />
+      <module name="damiano_p2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62946d41-9f81-4299-9144-9871fda2eb74" name="Default Changelist" comment="" />
+      <created>1572661830243</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572661830243</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
